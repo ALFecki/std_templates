@@ -1,0 +1,17 @@
+Debug/
+x64/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.filters
+*.user
+**/.vs
+*.pdb
+*.exe
+*.json
+*.user
+*.bin
+build/
+obj/
+*.csproj
+*$*.docx
